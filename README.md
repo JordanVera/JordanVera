@@ -8,7 +8,7 @@ I love building web applications, and lately I have been diving into data visual
 *  🌍  I'm based in Houston, Texas. (Willing to relocate)
 *  🖥️  See my portfolio at [HERE](https://tranquil-castle-40340.herokuapp.com/)
 *  ✉️  You can contact me at [verawebdev@protonmail.com](mailto:verawebdev@protonmail.com)
-*  🧠  I'm learning deep learning through tensorflow.js
+*  🧠  Currently learning deep learning through tensorflow.js
 
 ### Skills
 
