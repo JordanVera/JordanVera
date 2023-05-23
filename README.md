@@ -6,7 +6,7 @@ I am a 26 year old fullstack web developer from Houston, TX. I am a very ambitio
 
 I love building web applications, and lately I have been diving into data visualization and deep learning.
 *  🌍  I'm based in Houston, Texas. (Willing to relocate)
-*  🖥️  See my portfolio at [HERE](https://tranquil-castle-40340.herokuapp.com/)
+*  🖥️  See my portfolio at [HERE](https://www.jordanvera.com)
 *  ✉️  You can contact me at [verawebdev@protonmail.com](mailto:verawebdev@protonmail.com)
 *  🧠  Currently learning deep learning through tensorflow.js
 
