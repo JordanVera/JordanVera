@@ -1,6 +1,6 @@
 Hi 👋 My name is Jordan Vera
 ============================
-MERN Developer
+Full Stack Web Developer
 ---------------
 I am a 27 year old fullstack web developer from Houston, TX. I am a very ambitious person and really love working within nodejs. I graduated from the UT Austin Coding Bootcamp in 2018, and since then have been honing my skills as a full-stack web developer. 
 
