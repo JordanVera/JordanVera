@@ -10,6 +10,8 @@ I love building web applications, and lately I have been diving into data visual
 *  ✉️  You can contact me at [verawebdev@protonmail.com](mailto:verawebdev@protonmail.com)
 *  🧠  Currently learning deep learning through tensorflow.js
 
+ ![](https://visitcount.itsvg.in/api?id=jordanvera&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+
 ### Skills
 
 
