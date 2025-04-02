@@ -2,7 +2,7 @@ Hi 👋 My name is Jordan Vera
 ============================
 Full Stack Web Developer
 ---------------
-I am a <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/shields/shields&label=Age&query=$.pushed_at&color=blue&suffix=%20years%20old&style=flat-square&logo=github&logoColor=white&cacheSeconds=86400&prefix=Math.floor((new%20Date()%20-%20new%20Date('1996-04-24'))%20/%20(365.25%20*%2024%20*%2060%20*%2060%20*%201000))%20=%20" alt="Age"> full stack web developer from Houston, TX. I am a very ambitious person and really love working within nodejs. I graduated from the UT Austin Coding Bootcamp in 2018, and since then have been honing my skills as a full-stack web developer. 
+I am a 28 year old full stack web developer from Houston, TX. I am a very ambitious person and really love working within nodejs. I graduated from the UT Austin Coding Bootcamp in 2018, and since then have been honing my skills as a full-stack web developer. 
 
 I love building web applications, and lately I have been diving into data visualization and deep learning.
 *  🌍  I'm based in Houston, Texas. (Willing to relocate)
